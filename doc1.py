@@ -1,2 +1,4 @@
 import this
-print(
+x= "hola mundo"
+print(x)
+type(x)
